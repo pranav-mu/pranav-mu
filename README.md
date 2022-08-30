@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pranav-mu
+- 👀 I’m interested in Deep Learning & Data science
+- 🌱 I’m currently learning about these above
+- 📫 How to reach me aaseeshpranav@gmaill.com
